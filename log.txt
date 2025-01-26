@@ -1,0 +1,35 @@
+Username: @RAM_BHAKT_Yuviii
+Target: 20.219.162.136
+Port: 23400
+Time: 30
+
+Username: @SahilModzOwner
+Target: 20.219.162.136
+Port: 23400
+Time: 30000
+
+Username: @SahilModzOwner
+Target: 20.204.39.245
+Port: 16705
+Time: 200
+
+Username: @SahilModzOwner
+Target: 20.204.39.245
+Port: 16705
+Time: 200
+
+Username: @SahilModzOwner
+Target: 20.204.39.245
+Port: 16705
+Time: 200
+
+Username: @SahilModzOwner
+Target: 20.204.39.245
+Port: 16705
+Time: 200
+
+Username: @SahilModzOwner
+Target: 20.204.159.211
+Port: 12330
+Time: 120
+
