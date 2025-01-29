@@ -11,7 +11,7 @@ from requests.exceptions import ReadTimeout, ConnectionError
 
 # Load configuration
 CONFIG_FILE = 'config.json'
-ORIGINAL_BGMI_PATH = '/workspaces/soul/bgmi'      #ADD YOUR FILES PATH HERE 
+ORIGINAL_BGMI_PATH = '/home/master/sahilnew/bgmi'      #ADD YOUR FILES PATH HERE 
 #ORIGINAL_SAHIL_PATH = '/workspaces/sahil/sahil'    #ADD YOUR FILES PATH HERE 
 
 import random
@@ -85,7 +85,7 @@ def clear_logs():
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     welcome_message = (
-        "👋 Welcome to the INFINITY DDOS! 👋\n\n" )
+        "👋 Welcome to the LAILA DDOS! 👋\n\n" )
 
     markup = types.ReplyKeyboardMarkup(row_width=2, resize_keyboard=True)
     btn_attack = types.KeyboardButton('🚀 Attack')
