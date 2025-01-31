@@ -85,7 +85,7 @@ def clear_logs():
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
     welcome_message = (
-        "👋 Welcome to the LAILA DDOS! 👋\n\n" )
+        "👋 Welcome to the INFINITY DDOS! 👋\n\n" )
 
     markup = types.ReplyKeyboardMarkup(row_width=2, resize_keyboard=True)
     btn_attack = types.KeyboardButton('🚀 Attack')
